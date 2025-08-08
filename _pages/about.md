@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Jiayi Zhong_CV.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](Agilities666@gmail.com) / [Github](https://github.com/jiayiz1128) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/2301_76956971?type=lately)

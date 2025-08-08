@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/zjy.png"
+  avatar           : "images/zjy.png"
   name             : "钟佳怡"
   pronouns         : # example: "she/her"  
   bio              : "您好！我叫钟佳怡，现为湖南科技大学计算机科学与工程学院计算机科学与技术专业的本科生，非常感谢您访问我的个人主页。"

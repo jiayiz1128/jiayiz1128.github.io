@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Brief Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Hunan University of Science and Technology](https://www.hnust.edu.cn/). My research interest includes Deep Learning, Service Computing, and machine learning.
+I'm a third year undergraduate student from [Hunan University of Science and Technology](https://www.hnust.edu.cn/), Xiangtan, China. My research interest includes Deep Learning, Service Computing, and machine learning.
 
 You can find my CV here: [Jiayi Zhong's Curriculum Vitae](../assets/Jiayi Zhong_CV.pdf).
 

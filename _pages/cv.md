@@ -11,35 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* B.S. in Computer Science and Technology, Hunan University of Science and Technology, 2026
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,18 +20,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+project
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* [基于开源AI大模型的教学实训智能体软件](http://124.71.14.94:80)
+* 基于SSM框架的中医药论坛系统
+
+Contest
+=====
+* 2025睿抗机器人开发者大赛（RAICOM）编程技能赛省级二等奖
+* 2024第十四届蓝桥杯软件和信息技术专业人才大赛湖南赛区c/c++程序设计大学B组三等奖
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Programming Languages: Java, Python, C, MySQL
+* Frameworks: PyTorch, SpringMVC, Spring, MyBatis, SpringBoot, MyBatis-Plus, SpringCloud, Langchain4j
+* Tools & Software: Visio, Draw.io, Overleaf

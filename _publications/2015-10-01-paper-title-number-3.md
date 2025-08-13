@@ -8,8 +8,5 @@ date: 2025-4-10
 venue: 'Concurrency and Computation: Practice and Experience'
 citation: 'Chen, J., Zhong, J., Kang, G., Liu, J., & Wen, Y. (2025). "VariantRank: Business Process Event Log Sampling based on Importance of Trace Variants." <i>Concurrency and Computation: Practice and Experience</i>, 37(9–11), 1–11. https://doi.org/10.1002/cpe.70092'
 ---
-permalink: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.70092
-
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+To address the issues of low sampling quality and efficiency in processing large-scale event logs in existing business process event log sampling methods, a new method, named VariantRank, is proposed, which is based on the importance of trace variants. First, the importance of each trace variant is calculated based on the activity importance and the importance of directly-follow relationships within the trace variants. Then, the trace variants are ranked according to their importance. Finally, based on the given sampling rate and the ranking of trace variants, the final sampling is performed to obtain the sample event logs. The effectiveness of the proposed sampling method is evaluated in terms of both sampling quality and sampling efficiency across 8 public event log datasets. The experimental analysis shows that, compared with the state-of-the-art sampling methods, VariantRank improves the sampling efficiency while ensuring the sampling quality.

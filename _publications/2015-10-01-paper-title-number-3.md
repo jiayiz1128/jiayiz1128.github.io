@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the event log sampling.'
 date: 2025-4-10
 venue: 'Concurrency and Computation: Practice and Experience'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Chen, J., Zhong, J., Kang, G., Liu, J., & Wen, Y. (2025). "VariantRank: Business Process Event Log Sampling based on Importance of Trace Variants." <i>Concurrency and Computation: Practice and Experience</i>, 37(9–11), 1–11. https://doi.org/10.1002/cpe.70092'
 ---
 permalink: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.70092
 

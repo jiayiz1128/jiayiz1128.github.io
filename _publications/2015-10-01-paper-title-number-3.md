@@ -1,7 +1,7 @@
 ---
 title: "VariantRank: Business Process Event Log Sampling based on Importance of Trace Variants."
 collection: publications
-category: journal
+category: journals
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the event log sampling.'
 date: 2025-4-10
